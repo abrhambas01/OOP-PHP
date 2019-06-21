@@ -22,3 +22,8 @@ function redirect($path)
 {
     header("Location: /{$path}");
 }
+
+
+function assets_path(){
+	return __DIR__ ."/public/";
+}

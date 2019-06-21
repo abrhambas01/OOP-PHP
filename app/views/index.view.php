@@ -1,5 +1,10 @@
 <?php require('partials/head.php'); ?>
 
-    <h1>Home Page</h1>
+	<section id="main-background" style="background-image :">
+		<div id="login-form">
+			<p>Login</p>
+		</div>
+
+	</section>
 
 <?php require('partials/footer.php'); ?>

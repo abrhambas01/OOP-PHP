@@ -3,7 +3,7 @@
     <h1>All Users</h1>
 
 <?php foreach ($users as $user) : ?>
-    <li><?= $user->name; ?></li>
+    <li><?= $user->full_name; ?></li>
 <?php endforeach; ?>
 
 <h1>Submit Your Name</h1>
