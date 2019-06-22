@@ -11,6 +11,7 @@ class Router
      */
     public $routes = [
         'GET' => [],
+        'PUT' => [],
         'POST' => []
     ];
 
@@ -34,10 +35,15 @@ class Router
      * @param string $uri
      * @param string $controller
      */
-    public function get($uri, $controller)
-    {
+    public function get($uri, $controller){
         $this->routes['GET'][$uri] = $controller;
     }
+
+
+    public function put($uri,$controller){
+        $this->routes['PUT'][$uri] = $controller ;
+    }
+
 
     /**
      * Register a POST route.

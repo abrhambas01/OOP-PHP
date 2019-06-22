@@ -17,12 +17,24 @@ class UsersController
     }
 
 
+    public function register()
+    {
+      /*  $name =   $_POST['name'];    
+        $user =   $_POST['user'];
+*/
+        
+
+    }
+
     public function store()
     {
+
         App::get('database')->insert('users', [
-            'name' => $_POST['name']
+            'full_name' => $_POST['name']
         ]);
 
         return redirect('users');
     }
+
+
 }

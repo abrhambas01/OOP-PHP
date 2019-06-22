@@ -13,8 +13,14 @@ module.exports = {
       transparent: 'transparent',
 
       black: '#000',
+      bodycolor : '#07171A',
+      inputcolor : '#D5DFE1',
       white: '#fff',
-
+      
+      buttoncolor : '#0B7A75',
+      
+      switchcolor : '#095956',
+      
       gray: {
         100: '#f7fafc',
         200: '#edf2f7',
@@ -26,6 +32,7 @@ module.exports = {
         800: '#2d3748',
         900: '#1a202c',
       },
+
       red: {
         100: '#fff5f5',
         200: '#fed7d7',
@@ -173,6 +180,7 @@ module.exports = {
       sm: '0.125rem',
       default: '0.25rem',
       lg: '0.5rem',
+      xl: '1rem',
       full: '9999px',
     },
     borderWidth: {
