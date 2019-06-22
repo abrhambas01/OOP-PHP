@@ -1,0 +1,22 @@
+App Flow : 
+
+1. See the landing page.. 
+     	- User needs to have an account so that he can access the app.
+     	- After registering he needs 2 verify his email.
+     
+ 2. Enter into the app 
+ 		- New User
+ 		 	~> Enter the ff:
+ 		 		=> Desired Name 
+ 		 		=> Gender
+ 		 		=> Desired Unique ID
+ 		 		=> Desired Picture / Photo
+
+ 		 	~> User can now start his campaign..
+ 		 		=> Discover the world of Renegades and fight to be the greatest renegade of them all. 
+ 		 		=> Sign up as a  
+
+
+			--------TOP MENU OPTIONS--------
+			-> JOIN CLUSTER / GROUP [Y/N/Ask Later[L]]? 
+ 				=> Enter cluster/group ID ? 3002
