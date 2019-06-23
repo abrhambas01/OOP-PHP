@@ -23148,6 +23148,14 @@ __WEBPACK_IMPORTED_MODULE_1_jquery___default()(function () {
 	});
 
 	__WEBPACK_IMPORTED_MODULE_1_jquery___default()("#loginForm").hide();
+
+	__WEBPACK_IMPORTED_MODULE_1_jquery___default()('#registerOption').on('click', function () {
+		// alert("Register clicked");
+
+		// $("#registerForm")
+	});
+	// loginOption
+
 });
 
 /***/ }),

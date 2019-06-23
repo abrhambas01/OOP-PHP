@@ -239,6 +239,10 @@ module.exports = {
       '"Segoe UI Symbol"',
       '"Noto Color Emoji"',
       ],
+      display : [
+      'Open Sans',
+      'Tahoma'
+      ],
       serif: [
       'Georgia',
       'Cambria',

@@ -626,6 +626,10 @@ video {
   }
 }
 
+/* 
+You can add styles here ..  usign sass
+ */
+
 .appearance-none {
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -3784,6 +3788,10 @@ video {
 
 .font-sans {
   font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.font-display {
+  font-family: Open Sans, Tahoma;
 }
 
 .font-serif {
@@ -11009,6 +11017,10 @@ video {
 
   .sm\:font-sans {
     font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+  .sm\:font-display {
+    font-family: Open Sans, Tahoma;
   }
 
   .sm\:font-serif {
@@ -18237,6 +18249,10 @@ video {
     font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 
+  .md\:font-display {
+    font-family: Open Sans, Tahoma;
+  }
+
   .md\:font-serif {
     font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   }
@@ -25463,6 +25479,10 @@ video {
     font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 
+  .lg\:font-display {
+    font-family: Open Sans, Tahoma;
+  }
+
   .lg\:font-serif {
     font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   }
@@ -32687,6 +32707,10 @@ video {
 
   .xl\:font-sans {
     font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+  .xl\:font-display {
+    font-family: Open Sans, Tahoma;
   }
 
   .xl\:font-serif {

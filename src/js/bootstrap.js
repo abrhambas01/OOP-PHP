@@ -11,4 +11,12 @@ $(function(){
 
 	$("#loginForm").hide();
 
+	$('#registerOption').on('click',function(){
+		// alert("Register clicked");
+
+		// $("#registerForm")
+	})
+	// loginOption
+
+
 });

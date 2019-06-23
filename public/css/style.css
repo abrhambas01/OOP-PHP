@@ -1,6 +1,7 @@
 .column {
 	flex: 50%;
 }
+
 @font-face {	
 	font-family : 'Roboto';
 	src: url(../fonts/Roboto-Light.ttf) format('truetype');

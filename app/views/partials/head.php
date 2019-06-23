@@ -7,4 +7,4 @@
 	<link rel="stylesheet" href=".././public/css/style.css">
 </head>
 <body>
-	<div id="app" class="bg-gray-100">
+	<div id="app" class="h-full bg-gray-100">

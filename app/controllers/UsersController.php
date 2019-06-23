@@ -19,10 +19,8 @@ class UsersController
 
     public function register()
     {
-      /*  $name =   $_POST['name'];    
-        $user =   $_POST['user'];
-*/
-        
+        $name =   $_POST['name'];    
+        $user =   $_POST['user'];      
 
     }
 
