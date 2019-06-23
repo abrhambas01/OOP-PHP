@@ -17,5 +17,5 @@ yarn / npm install
 ```
 
 ### Tech Stack
-1. TailwindCSS
-2. PHP and MYSql
+1. TailwindCSS - CSS Framework
+2. PHP(OOP / PDO) and MYSQL - Backend
