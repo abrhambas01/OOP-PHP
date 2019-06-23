@@ -16,4 +16,6 @@ composer install
 yarn / npm install 
 ```
 
-
+### Tech Stack
+1. TailwindCSS
+2. PHP and MYSql
