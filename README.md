@@ -6,7 +6,7 @@
 
 1. Clone the project by 
 ```
-git clone <url>
+git clone https://github.com/abrhambas01/Renegade-Game.git
 
 ```
 2. Then just issue a composer & yarn/npm command, Make sure you installed npm / yarn / & composer
