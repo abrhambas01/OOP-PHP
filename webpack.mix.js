@@ -1,14 +1,18 @@
 let mix = require('laravel-mix');
 // let build = require('./tasks/build.js');
 let tailwindcss = require('tailwindcss');
+// let browsersync = require('browsersync')
 
 mix.js('src/js/app.js', 'public/js')
 .setPublicPath('public')
 .sass('src/sass/app.scss', 'public/css')
 .options({
 	processCssUrls: false,
+
 	postCss: [ tailwindcss('./tailwind.config.js')],
-}).version();
+})
+.browsersync('localhost:8100')
+.version();
 
 /*
 mix.js(['source/_assets/js/app.js','source/_assets/js/main.js'], 'js/app.js')

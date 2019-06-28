@@ -15,9 +15,12 @@ App Flow :
 
  		 	~> User can now start his campaign..
  		 		=> Discover the world of Renegades and fight to be the best fighter of them all. 
- 		 		=> Enter the world as a fighter then increase your strength, there's no max health
+ 		 		=> Enter the world as a fighter then increase your abilities and strength, there's no max health
+ 		 				-> Enter a school / academy
+ 		 				-> Go to an arts school.
+ 		 				-> Find a prostitution den..
+ 		 				
 
-
-			--------TOP MENU OPTIONS--------
-			-> JOIN CLUSTER / GROUP [Y/N/Ask Later[L]]? 
- 				=> Enter cluster/group ID ? 3002
+--------TOP MENU OPTIONS--------
+-> JOIN CLUSTER / GROUP [Y/N/Ask Later[L]]? 
+		=> Enter cluster/group ID ? 3002

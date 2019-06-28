@@ -9,7 +9,11 @@ class PagesController
      */
     public function home()
     {
-        return view('index');
+                  // if user isn't logged on..
+            // return to landing page
+        // else
+        // return to dashbaord
+             return view('index');
     }
 
     /**
@@ -18,7 +22,6 @@ class PagesController
     public function about()
     {
         $company = 'Renegade';
-
         return view('about', ['company' => $company]);
     }
 

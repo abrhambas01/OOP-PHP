@@ -5,6 +5,9 @@ namespace App\Core\Database;
 use PDO;
 use PDOException;
 
+
+// this class will be used for connecting to the DB..
+
 class Connection
 {
     /**

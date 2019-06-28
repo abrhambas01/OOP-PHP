@@ -33,6 +33,6 @@ class App
             throw new Exception("No {$key} is bound in the container.");
         }
 
-        return static::$registry[$key];
+        return static::$registry[$key]; 
     }
 }

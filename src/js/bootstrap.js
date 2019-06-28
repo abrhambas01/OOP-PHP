@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import $ from 'jquery';
 
+
 $(function(){
 	console.log("JQuery already runs..");
 
@@ -11,12 +12,11 @@ $(function(){
 
 	$("#loginForm").hide();
 
-	$('#registerOption').on('click',function(){
-		// alert("Register clicked");
+	$('#registerOption').click(function(){
 
-		// $("#registerForm")
-	})
-	// loginOption
+
+	});
+
 
 
 });

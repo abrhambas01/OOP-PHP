@@ -31,9 +31,7 @@ class QueryBuilder
     public function selectAll($table)
     {
         $statement = $this->pdo->prepare("select * from {$table}");
-
         $statement->execute();
-
         return $statement->fetchAll(PDO::FETCH_CLASS);
     }
 
@@ -57,7 +55,14 @@ class QueryBuilder
 
             $statement->execute($parameters);
         } catch (\Exception $e) {
-            //
+            echo $e ; 
         }
     }
+
+
+    public function remove($table, $params){
+        $sql = sprintf('DELETE INTO');
+    }
+
+
 }
