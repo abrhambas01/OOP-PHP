@@ -1,7 +1,8 @@
 # Renegade : MMORPG (Text based)
 > Probably the most enjoyable browser (text based rpg game) you'll play
 
-*You can use this as a PDO / OOP PHP Scaffold project if you want to I utilized MVC for this inspired by rails / symfony. bla bla* 
+*You can also use this as a OOP PHP(PDO) Scaffold project if you want to
+# I utilized MVC like for this inspired by rails / symfony. bla bla* 
 # Steps to Install this project : 
 
 1. Clone the project by 
